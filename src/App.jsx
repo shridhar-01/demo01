@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <h3>Version controll</h3>
+        <p>this message from main branch</p>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
